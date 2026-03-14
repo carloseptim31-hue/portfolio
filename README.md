@@ -29,7 +29,7 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
 - Python, JavaScript (Node.js, Express.js), SQL  
 - MongoDB, SQL Server  
 - Automatización con PowerShell y CMD  
-- Backend, Automatización, Ciberseguridad
+- Backend y Automatización
 
 ---
 
