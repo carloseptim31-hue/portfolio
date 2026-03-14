@@ -1,10 +1,14 @@
-<!-- Forzar reconstrucción --># portfolio
-Portafolio profesional de Carlos Séptimo Mariano
+# Portafolio de Carlos Séptimo Mariano
+
+👋 Hola, soy **Carlos Séptimo Mariano**, Ingeniero en Informática y Sistemas, Backend Developer y Arquitecto de Identidad Digital.  
+Construyo soluciones seguras y escalables para inclusión global.
+
 ---
 
-## 🌍 Sobre este portafolio
+## 🌐 Sobre este portafolio
 Este repositorio contiene mi página web profesional publicada en GitHub Pages:  
 👉 [Ver sitio en línea](https://carloseptim31-hue.github.io/portfolio/)
+
 ---
 
 ## 🚀 Proyectos Destacados
@@ -14,8 +18,12 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
 
 - **Automatizaciones Académicas**  
   Scripts en Python y PowerShell para optimizar inventarios y procesos.  
-  *Impacto:* Reducción de tiempos de gestión en un 30%.
-  ---
+  *Impacto:* Reducción de tiempos de gestión en un 30%.  
+
+- **Despierta Joven**  
+  Iniciativa social para orientar a jóvenes hacia el desarrollo personal y profesional.
+
+---
 
 ## 🛠️ Habilidades Técnicas
 - Python, JavaScript (Node.js, Express.js), SQL  
@@ -23,14 +31,13 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
 - Automatización con PowerShell y CMD  
 - Backend, Automatización, Ciberseguridad
 
-- **Despierta Joven**  
-  Iniciativa social para orientar a jóvenes hacia el desarrollo personal y profesional.
-  ---
+---
 
 ## 🎯 Metas Profesionales
 - **Corto plazo:** Graduarme como Ingeniero en Sistemas e Informática y trabajar en una empresa resolviendo problemas tecnológicos.  
 - **Largo plazo:** Consolidarme en el área de ciberseguridad y brindar servicios en empresas grandes.
-  ---
+
+---
 
 ## 📬 Contacto
 - [LinkedIn](https://www.linkedin.com/in/carlos-septimo-834505199)  
