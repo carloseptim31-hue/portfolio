@@ -25,3 +25,8 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
 
 - **Despierta Joven**  
   Iniciativa social para orientar a jóvenes hacia el desarrollo personal y profesional.
+  ---
+
+## 🎯 Metas Profesionales
+- **Corto plazo:** Graduarme como Ingeniero en Sistemas e Informática y trabajar en una empresa resolviendo problemas tecnológicos.  
+- **Largo plazo:** Consolidarme en el área de ciberseguridad y brindar servicios en empresas grandes.
