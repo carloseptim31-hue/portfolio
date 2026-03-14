@@ -30,3 +30,9 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
 ## 🎯 Metas Profesionales
 - **Corto plazo:** Graduarme como Ingeniero en Sistemas e Informática y trabajar en una empresa resolviendo problemas tecnológicos.  
 - **Largo plazo:** Consolidarme en el área de ciberseguridad y brindar servicios en empresas grandes.
+  ---
+
+## 📬 Contacto
+- [LinkedIn](https://www.linkedin.com/in/carlos-septimo-834505199)  
+- [GitHub](https://github.com/carloseptim31-hue)  
+- 📧 **carloseptim31@gmail.com**
