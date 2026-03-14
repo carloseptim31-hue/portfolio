@@ -17,7 +17,7 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
   *Tecnologías:* Node.js, Express.js, MongoDB, React, i18n.js  
 
 - **Automatizaciones Académicas**  
-  Scripts en Python y PowerShell para optimizar inventarios y procesos.  
+  Automatización con Python y PowerShell.  
   *Impacto:* Reducción de tiempos de gestión en un 30%.  
 
 - **Despierta Joven**  
