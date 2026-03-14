@@ -20,8 +20,8 @@ Este repositorio contiene mi página web profesional publicada en GitHub Pages:
   Automatización con Python y PowerShell.  
   *Impacto:* Reducción de tiempos de gestión en un 30%.  
 
-- **Despierta Joven**  
-  Iniciativa social para orientar a jóvenes hacia el desarrollo personal y profesional.
+- **Despierta Joven**
+  Plataforma social para orientar a jóvenes y prevenir adicciones.
 
 ---
 
